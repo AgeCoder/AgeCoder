@@ -8,6 +8,10 @@ I'm a passionate developer based in India, currently working remotely at **Aligh
 
 Here are some of the projects I've been working on:
 
+  - **Full-Stack Blockchain with Flask and React**
+    A comprehensive project showcasing a blockchain implementation with Python/Flask for the backend (including Proof of Work, mining, Pub/Sub networking, and wallet       
+    functionalities) and JavaScript/React for an interactive user interface.
+  
 - **Marketplace**  
   A robust, TypeScript-driven project designed to deliver a seamless and intuitive online marketplace experience.
   
