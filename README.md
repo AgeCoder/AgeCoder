@@ -1,6 +1,6 @@
 # Hi there, I'm Vedant Navale! 👋
 
-I'm a passionate developer based in India, currently working remotely at **Alightage**. My expertise lies in **TypeScript** and **JavaScript**, and I love building applications and tools that elevate user experiences while streamlining developer workflows. I'm always exploring innovative ideas and technologies to drive efficient and creative solutions.
+I'm a passionate developer based in India. My expertise lies in **TypeScript** and **JavaScript**, and I love building applications and tools that elevate user experiences while streamlining developer workflows. I'm always exploring innovative ideas and technologies to drive efficient and creative solutions.
 
 ---
 
