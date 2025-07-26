@@ -43,7 +43,7 @@ Here are some of the projects I've been working on:
 
 I'm open to collaboration, feedback, or even just a friendly chat about the latest in tech!
 
-- **Website**: [vedant.alightage.online](https://vedant.alightage.online/)
+- **Website**: [vedant.alightage.online](https://vedant.alightage.in/)
 - **GitHub**: [github.com/AgeCoder](https://github.com/AgeCoder)
 
 Feel free to explore my repositories and reach out if you'd like to connect or collaborate!
